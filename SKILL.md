@@ -3,8 +3,8 @@ name: list-escalation-comedy
 description: A comedic writing technique for building sequences that start with recognizable observations and escalate systematically toward absurdity, culminating in a truth that lands harder for being funny.
 license: MIT
 metadata:
-  version: 1.0.4396
   author: sethmblack
+  version: 1.0.4397
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
